@@ -1,0 +1,9 @@
+# Build output
+*.exe
+*.pdb
+
+# Logitech's icon, extracted from the LGS installer for local builds only
+assets/app.ico
+
+# Retired Wheel view edition, kept locally only
+discontinued/
